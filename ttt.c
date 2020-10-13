@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <time.h>
 
+//MASHALLAH MASHALLAH YE TOU BOHT ACHA CODE HAY
+
 void delay(int t){
 clock_t start_time=clock();
 while (clock() < start_time+t);
